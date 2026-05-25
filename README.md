@@ -1,4 +1,4 @@
 # Rohan
 My 1st Repository
 <p align="center">
-Lead Data management Specialist | PMP Trained | Data Science learner
+Lead Data management Specialist | PMP Trained | Python learner
